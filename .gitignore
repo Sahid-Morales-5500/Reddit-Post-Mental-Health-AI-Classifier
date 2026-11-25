@@ -1,0 +1,9 @@
+.env
+models/*.pkl
+*.pkl
+__pycache__/
+*.pyc
+data/
+*.csv
+*.pkl
+.vscode/

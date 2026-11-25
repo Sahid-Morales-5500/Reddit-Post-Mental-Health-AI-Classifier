@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+praw = "*"
+pandas = "*"
+python-dotenv = "*"
+psycopg2-binary = "*"
+nltk = "*"
+textblob = "*"
+sqlalchemy = "*"
+kaggle = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
